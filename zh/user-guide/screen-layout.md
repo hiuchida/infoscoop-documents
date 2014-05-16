@@ -38,7 +38,7 @@ infoScoop如下图所示，由若干个面板所构成。
                 [内容追加]:提供为了对于顶部菜单没有的RSS和追加网站的控制。<br>
                 [我的网站地图]：为各标签的用户面板设置的小工具用一览表示。<br>
                 点击侧面板的各个标签后会打开。<br>
-                <img src="images/layout/screen-layout-3.png" alt="开闭侧面板"><br>
+                <img src="images/layout/screen-layout-3.png"><br>
                 打开侧面板后，用拖放可以调节幅度，调节的幅度不被保存。
             </td>
         </tr>

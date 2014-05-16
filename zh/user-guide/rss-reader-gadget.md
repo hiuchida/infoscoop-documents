@@ -32,7 +32,7 @@
             </td>
         </tr>
         <tr>
-            <td>(3)</td>	
+            <td>(3)</td>
             <td>RSS项标题</td>
             <td>
                 <p>
@@ -80,7 +80,7 @@
 <table>
     <thead>
         <tr>
-            <th>标题</th><th>名字</th><th>说明</th>
+            <th>图标</th><th>名称</th><th>说明</th>
         </tr>
     </thead>
     <tbody>
@@ -157,7 +157,7 @@
 <table>
     <thead>
         <tr>
-            <th>标题</th><th>名字</th><th>说明</th>
+            <th>图标</th><th>名称</th><th>说明</th>
         </tr>
     </thead>
     <tbody>
@@ -347,41 +347,43 @@
 ## 最大化时的头图标的说明
 
 <table>
-	<tr>
-    	<th>标题</th>
-        <th>名字</th>
-        <th>说明</th>
-    </tr>
-	<tr>
-    	<td><img src="../../images/html_valid.png"/></td>
-        <td>全文表示</td>
-        <td>把右边的详细表示面板切换成内容全体内框表示模式。</td>
-    </tr>
-	<tr>
-    	<td><img src="../../images/html_gray.png"/></td>
-        <td>摘要表示</td>
-        <td>把右边的详细表示面板切换成RSS的摘要信息表示模式。</td>
-    </tr>
-	<tr>
-    	<td><img src="../../images/clock.gif"/></td>
-        <td>详细日期的表示/非表示</td>
-        <td>切换更新日期时间的表示/非表示。</td>
-    </tr>
-	<tr>
-    	<td><img src="../../images/refresh.gif"/></td>
-        <td>更新</td>
-        <td>RSS的再读取</td>
-    </tr>
-	<tr>
-    	<td><img src="../../images/help.png"/></td>
-        <td>帮助</td>
-        <td>显示帮助窗口。</td>
-    </tr>
-	<tr>
-    	<td><img src="../../images/restore.gif"/></td>
-        <td>还原</td>
-        <td>最大化的窗口还原。</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>图标</th><th>名称</th><th>说明</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="../../images/html_valid.png"/></td>
+            <td>全文表示</td>
+            <td>把右边的详细表示面板切换成内容全体内框表示模式。</td>
+        </tr>
+        <tr>
+            <td><img src="../../images/html_gray.png"/></td>
+            <td>摘要表示</td>
+            <td>把右边的详细表示面板切换成RSS的摘要信息表示模式。</td>
+        </tr>
+        <tr>
+            <td><img src="../../images/clock.gif"/></td>
+            <td>详细日期的表示/非表示</td>
+            <td>切换更新日期时间的表示/非表示。</td>
+        </tr>
+        <tr>
+            <td><img src="../../images/refresh.gif"/></td>
+            <td>更新</td>
+            <td>RSS的再读取</td>
+        </tr>
+        <tr>
+            <td><img src="../../images/help.png"/></td>
+            <td>帮助</td>
+            <td>显示帮助窗口。</td>
+        </tr>
+        <tr>
+            <td><img src="../../images/restore.gif"/></td>
+            <td>还原</td>
+            <td>最大化的窗口还原。</td>
+        </tr>
+    </tbody>
 </table>
 
 
@@ -403,46 +405,49 @@
 RSS读取器从键盘用以下的键可以操作。
 
 <table>
-	<tr>
-    	<th>键</th>
-        <th>说明</th>
-    </tr>
-	<tr>
-        <td>↓↑</td>
-        <td>在文本间移动</td>
-    </tr>
-	<tr>
-        <td>→←</td>
-        <td>切换摘要表示/全文表示（和一样<img src="../../images/html_gray.png"/>/<img src="../../images/html_valid.png"/>)</td>
-    </tr>
-	<tr>
-        <td>ENTER</td>
-        <td>选择的文本的摘要表示或全文表示</td>
-    </tr>
-	<tr>
-        <td>SHIFT+M</td>
-        <td>邮件送信</td>
-    </tr>
-	<tr>
-        <td>R</td>
-        <td>更新(和一样<img src="../../images/refresh.gif"/>)</td>
-    </tr>
-	<tr>
-        <td>Q</td>
-        <td>还原（解除最大化）(和一样<img src="../../images/restore.gif"/>)</td>
-    </tr>
-	<tr>
-        <td>T</td>
-        <td>详细日期时间表示/非表示(和一样<img src="../../images/clock.gif"/>)</td>
-    </tr>
-	<tr>
-        <td>M</td>
-        <td>切换摘要表示/全文表示(和一样<img src="../../images/html_gray.png"/>/<img src="../../images/html_valid.png"/>)</td>
-    </tr>
-	<tr>
-        <td>H</td>
-        <td>帮助的表示(和一样<img src="../../images/help.png"/>)</td>
-    </tr>
+    <thead>
+        <tr>
+            <th>键</th><th>说明</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>↓↑</td>
+            <td>在文本间移动</td>
+        </tr>
+        <tr>
+            <td>→←</td>
+            <td>切换摘要表示/全文表示（和一样<img src="../../images/html_gray.png"/>/<img src="../../images/html_valid.png"/>)</td>
+        </tr>
+        <tr>
+            <td>ENTER</td>
+            <td>选择的文本的摘要表示或全文表示</td>
+        </tr>
+        <tr>
+            <td>SHIFT+M</td>
+            <td>邮件送信</td>
+        </tr>
+        <tr>
+            <td>R</td>
+            <td>更新(和一样<img src="../../images/refresh.gif"/>)</td>
+        </tr>
+        <tr>
+            <td>Q</td>
+            <td>还原（解除最大化）(和一样<img src="../../images/restore.gif"/>)</td>
+        </tr>
+        <tr>
+            <td>T</td>
+            <td>详细日期时间表示/非表示(和一样<img src="../../images/clock.gif"/>)</td>
+        </tr>
+        <tr>
+            <td>M</td>
+            <td>切换摘要表示/全文表示(和一样<img src="../../images/html_gray.png"/>/<img src="../../images/html_valid.png"/>)</td>
+        </tr>
+        <tr>
+            <td>H</td>
+            <td>帮助的表示(和一样<img src="../../images/help.png"/>)</td>
+        </tr>
+    </tbody>
 </table>
 
 

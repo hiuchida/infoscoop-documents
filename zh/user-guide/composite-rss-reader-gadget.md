@@ -15,7 +15,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>(1)</td>	
+            <td>(1)</td>
             <td>标题</td>
             <td>
                 <p>
@@ -63,7 +63,7 @@
 <table>
     <thead>
         <tr>
-            <th>标题</th><th>名字</th><th>说明</th>
+            <th>图标</th><th>名称</th><th>说明</th>
         </tr>
     </thead>
     <tbody>
@@ -124,7 +124,7 @@
 <table>
     <thead>
         <tr>
-            <th>标题</th><th>名字</th><th>说明</th>
+            <th>图标</th><th>名称</th><th>说明</th>
         </tr>
     </thead>
     <tbody>

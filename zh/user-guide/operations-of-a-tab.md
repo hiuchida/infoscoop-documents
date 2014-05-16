@@ -28,21 +28,21 @@
 <table>
     <thead>
         <tr>
-            <th>图标</th><th>项目</th><th>说明</th>
+            <th>图标</th><th>名称</th><th>说明</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td><img src="../../images/refresh.gif" alt="再读图标"></td>
+            <td><img src="../../images/refresh.gif"></td>
             <td>再读</td>
             <td>
                 再读入对象标签里被设置的全部的小工具。<br>
-                在正在运行再读入的标签上，动画图标(<img src="../../images/indicator.gif" alt="インディケーター">)被显示。<br>
+                在正在运行再读入的标签上，动画图标(<img src="../../images/indicator.gif">)被显示。<br>
                 <strong>注意</strong> 根据被设置小工具的数目和种类，再读入有时会花费一些时间。
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/trash.gif" alt="删除图标"></td>
+            <td><img src="../../images/trash.gif"></td>
             <td>删除</td>
             <td>
                 删除对象的标签。单击删除菜单的话，确认信息被表示，选择「是」的话，标签从用户领域被删除。<br>
@@ -51,7 +51,7 @@
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/edit.gif" alt="名称变更图标"></td>
+            <td><img src="../../images/edit.gif"></td>
             <td>名称变更</td>
             <td>
                 变更对象的标签的名称。名称变更菜单的输入框中输入任意的名称，对象标签的名称会被变更。<br>
@@ -61,21 +61,21 @@
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/changeColumn.gif" alt="列数变更图标"></td>
+            <td><img src="../../images/changeColumn.gif"></td>
             <td>列数变更</td>
             <td>
                 对象标签的列数的变更。在列数变更菜单选项上，可以在1～10范围内选择，选择后对象的标签的列数被变更。
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/changeColumn2.gif" alt="统一列的幅度图标"></td>
+            <td><img src="../../images/changeColumn2.gif"></td>
             <td>统一列的幅度</td>
             <td>
                 均等化对象标签的列的幅度。单击均等列的幅度的菜单后，对象标签各列的表示幅度变成均等。
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/init_tab.gif" alt="タブ構成初期化图标"></td>
+            <td><img src="../../images/init_tab.gif"></td>
             <td>タブの構成を初期化する</td>
             <td>
                 初始化对象标签。关于对象标签自身的自定义信息可以还原到初始状态。<br>
