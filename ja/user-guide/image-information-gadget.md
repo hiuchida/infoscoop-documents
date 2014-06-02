@@ -30,7 +30,7 @@ RSSアイテムがXMLエスケープされたHTMLのsrcタグをcreator要素に
             <td>ガジェットを最大化します。</td>
         </tr>
         <tr>
-            <td><img src="../../images/show_hidden_items.gif" alt="メニューを開く"></td>
+            <td><img src="../../images/show_hidden_icons.gif" alt="メニューを開く"></td>
             <td>メニューを開く</td>
             <td>ガジェットのメニューを開きます。</td>
         </tr>
