@@ -9,6 +9,9 @@
 * [管理ガイド][Administration Guide]  
   infoScoop OpenSourceを利用したポータルサイトの構築方法と、各種システム設定について説明します。
 
+* [REST APIガイド][REST API Guide]  
+  infoScoop OpenSourceで提供されるREST APIの利用方法について説明しています。
+
 * [技術仕様][Technical Specifications]  
   infoScoop OpenSouceのガジェット仕様について説明します。
 
