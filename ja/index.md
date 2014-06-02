@@ -1,4 +1,4 @@
-# ドキュメント 3.1.0
+# ドキュメント 3.4.0
 
 * [インストールガイド][Installation Guide]  
   infoScoop OpenSourceをセットアップする手順について解説しています。
