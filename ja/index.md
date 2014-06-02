@@ -18,4 +18,5 @@
 [Installation Guide]: installation-guide/index.md "インストールガイド"
 [User Guide]: user-guide/index.md "ユーザーガイド"
 [Administration Guide]: administration-guide/index.md "管理ガイド"
+[REST API Guide]: restapi-guide/index.md "infoScoop REST APIガイド"
 [Technical Specifications]: technical-specifications/index.md "技術仕様"
