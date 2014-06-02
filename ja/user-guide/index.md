@@ -32,10 +32,12 @@
 * ガジェット操作 - 主なガジェットの操作方法について説明します。
 
   * [お知らせ][Information Gadget]
+  * [画像付きお知らせ][Image Information Gadget]
   * [カレンダー][Calendar Gadget]
   * [RSSリーダー][RSS Reader Gadget]
   * [まとめてRSSリーダー][Composite RSS Reader Gadget]
   * [ミニブラウザ][MiniBrowser Gadget]
+  * [切り取りミニブラウザ][FragmentMiniBrowser Gadget]
   * [メッセージ][Message Gadget]
   * [人気ガジェット][Gadget Ranking Gadget]
 
@@ -68,10 +70,12 @@
 [Operations of a Tab]: operations-of-a-tab.md "タブの操作"
 [Operations of My Site Map]: operations-of-my-site-map.md "マイサイトマップの操作"
 [Information Gadget]: information-gadget.md "お知らせ"
+[Image Information Gadget]: image-information-gadget.md "画像付きお知らせ"
 [Calendar Gadget]: calendar-gadget.md "カレンダー"
 [RSS Reader Gadget]: rss-reader-gadget.md "RSSリーダー"
 [Composite RSS Reader Gadget]: composite-rss-reader-gadget.md "まとめてRSSリーダー"
 [MiniBrowser Gadget]: minibrowser-gadget.md "ミニブラウザ"
+[FragmentMiniBrowser Gadget]: fragmentminibrowser-gadget.md "切り取りミニブラウザ"
 [Message Gadget]: message-gadget.md "メッセージ"
 [Gadget Ranking Gadget]: gadget-ranking-gadget.md "人気ガジェット"
 [Search]: search.md "検索"
