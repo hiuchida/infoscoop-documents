@@ -25,7 +25,7 @@
             </td>
         </tr>
         <tr>
-            <td><img src="../../images/minmize.gif" alt="最小化"></td>
+            <td><img src="../../images/minimize.gif" alt="最小化"></td>
             <td>最小化</td>
             <td>ガジェットを最小化します。最小化されているガジェットは、このアイコンが<img src="../../images/restore.gif" alt="元に戻す">［元に戻す］アイコンに切り替わるので、これをクリックすることで元のサイズに戻ります。</td>
         </tr>
