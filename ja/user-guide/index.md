@@ -8,6 +8,7 @@
 
   * [ティッカー][Ticker(Electrical Bulletin Board) Operations]
   * [トップページへ戻る][Going Back to Top Page]
+  * [ランキング][Ranking]
   * [文字サイズを変更する][Changing the Character Size]
   * [全体設定][Global Settings]
   * [ごみ箱の操作][Trash Bin Operations]
@@ -51,6 +52,7 @@
 [Screen Layout]: screen-layout.md "画面構成"
 [Ticker(Electrical Bulletin Board) Operations]: tickerelectrical-bulletin-board-operations.md "ティッカー"
 [Going Back to Top Page]: going-back-to-top-page.md "トップページへ戻る"
+[Ranking]: commandbar-ranking.md "ランキング"
 [Changing the Character Size]: changing-the-character-size.md "文字サイズを変更する"
 [Global Settings]: global-settings.md "全体設定"
 [Trash Bin Operations]: trash-bin-operations.md "ごみ箱の操作"
